@@ -1,7 +1,7 @@
 # Unemployment Analysis with Python
 
 
-Click on the following link to checkout the colab file.
+
 - [Colab](https://colab.research.google.com/github/vannalevaibhav-rcb/Unemployment-Anaalysis-with-Python/blob/main/Unemployment_Analysis_with_Python.ipynb)
 
 
