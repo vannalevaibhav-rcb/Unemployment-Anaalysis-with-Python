@@ -44,6 +44,6 @@ This project not only provided valuable insights into the economic impact of the
 
 ## Author
 
-- [Vaibhav Vannale](www.linkedin.com/in/vaibhav-vannale-2a051b28a
+- [Vaibhav Vannale](www.linkedin.com/in/vaibhav-vannale-2a051b28a)
 
 
